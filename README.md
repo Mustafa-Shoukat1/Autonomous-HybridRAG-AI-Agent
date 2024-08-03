@@ -2,6 +2,11 @@
 
 **Autonomous-HybridRAG-AI-Agent 🤖🌐🧠** is an intelligent assistant designed to efficiently handle user queries by leveraging various sources of information in a specific order. It combines memory, history, provided context, and web search to deliver accurate and relevant responses. 
 
+![image](https://github.com/user-attachments/assets/943b08d7-fcdd-4e07-86a7-4f680026e28f)
+![image](https://github.com/user-attachments/assets/fc695c6c-6523-491e-b01f-5706a236952c)
+![image](https://github.com/user-attachments/assets/74912703-980a-4504-80e6-df1dd2245764)
+
+
 ## Features 🌟
 
 1. **Memory Search 🧠**
