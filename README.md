@@ -1,6 +1,6 @@
 # Autonomous-HybridRAG-AI-Agent 🤖🌐🧠
 
-**Autonomous-HybridRAG-AI-Agent 🤖🌐🧠** is an intelligent assistant designed to efficiently handle user queries by leveraging various sources of information in a specific order. It combines memory, history, provided context, and web search to deliver accurate and relevant responses. 
+**Autonomous-HybridRAG-AI-Agent 🤖🌐🧠** is an intelligent assistant designed to efficiently handle user queries by leveraging various sources of information in a specific order. It combines memory, history, provided context, and web search to deliver accurate and relevant responses.
 
 ![image](https://github.com/user-attachments/assets/943b08d7-fcdd-4e07-86a7-4f680026e28f)
 
